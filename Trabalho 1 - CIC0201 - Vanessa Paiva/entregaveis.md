@@ -25,6 +25,6 @@ a senha geradora do keystream usado na cifração e então decifradas.
 dia 06/05 até as 23:59h 
 
 ## O procedimento de entrega: 
-1- email para o monitor (190089245@aluno.unb.br) 
+1- email para o monitor (*****@aluno.unb.br) 
 2- subject [CIC0201 Segurança Computacional - Turma 02 - Trabalho 1] anexando arquivo .zip 
 3- com os arquivos e as cifras e um tutorial (readme) orientando como executar o código.
